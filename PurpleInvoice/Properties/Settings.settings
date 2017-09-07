@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PurpleInvoice.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ClientProfilesFilePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">AppData/ClientProfiles.xml</Value>
+    </Setting>
+    <Setting Name="DomesticRate" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)">0.04</Value>
+    </Setting>
+    <Setting Name="InternationalIncomingRate" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)">0.015</Value>
+    </Setting>
+    <Setting Name="InternationalOutgoingRate" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)">0.015</Value>
+    </Setting>
+    <Setting Name="VatPercent" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)">15</Value>
+    </Setting>
+    <Setting Name="IncomingSharedRevenuePercent" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)">17.5</Value>
+    </Setting>
+    <Setting Name="ICXRevenuePercent" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)">15</Value>
+    </Setting>
+    <Setting Name="USDRateIncoming" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)">78</Value>
+    </Setting>
+    <Setting Name="USDRateOutgoing" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)">79</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

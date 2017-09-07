@@ -1,0 +1,109 @@
+﻿<?xml version="1.0"?>
+<ArrayOfClient xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Client ID="3" Name="GP" ClientType="ANS">
+    <DisplayName>GP</DisplayName>
+    <FullName>Grameen Phone Limited</FullName>
+    <Address>GP House Bashundhara, Baridhara, Dhaka 1229.</Address>
+    <WhomToAttention>Md. Atahar Ali, DGM (Revenue Accounts), Finance</WhomToAttention>
+    <VatRegNo>18141004500</VatRegNo>
+    <ClientRef>GPL</ClientRef>
+  </Client>
+  <Client ID="2" Name="Banglalink" ClientType="ANS">
+    <DisplayName>Banglalink</DisplayName>
+    <FullName>Banglalink Digital Communications Ltd</FullName>
+    <Address>Tigers Den, Plot # 04, SW (H) Bir Uttam Mir Shawkat Sharak Gulshan 1, Dhaka 1212. </Address>
+    <WhomToAttention>Mr. Shah Monjur Morshed, Revenue Operation Manager</WhomToAttention>
+    <VatRegNo>18141011900</VatRegNo>
+    <ClientRef>OTBL</ClientRef>
+  </Client>
+  <Client ID="4" Name="Robi" ClientType="ANS">
+    <DisplayName>Robi</DisplayName>
+    <FullName>Robi Axiata Limited</FullName>
+    <Address>Nafi Tower (10th Floor), 53 Gulshan South Avenue Gulshan 1, Dhaka 1212.</Address>
+    <WhomToAttention>Mr. Hanif, Specialist FAMR</WhomToAttention>
+    <VatRegNo>18121025236</VatRegNo>
+    <ClientRef>RAL</ClientRef>
+  </Client>
+  <Client ID="5" Name="Airtel" ClientType="ANS">
+    <DisplayName>Airtel</DisplayName>
+    <FullName>Airtel Bangladesh Limited</FullName>
+    <Address>Nafi Tower (10th Floor), 53 Gulshan South Avenue Gulshan 1, Dhaka 1212.</Address>
+    <WhomToAttention>Mr. Hanif, Specialist FAMR</WhomToAttention>
+    <VatRegNo>18121025236</VatRegNo>
+    <ClientRef>ABL</ClientRef>
+  </Client>
+  <Client ID="6" Name="Teletalk" ClientType="ANS">
+    <DisplayName>Teletalk</DisplayName>
+    <FullName>Teletalk Bangladesh Ltd.</FullName>
+    <Address>Rajuk Commercial Complex Holding #3/A,5/A,7/A,Road # 17 gulshan-1,Dhaka-1212</Address>
+    <WhomToAttention>General Manager (Finance &amp; Accounts)</WhomToAttention>
+    <VatRegNo>19061102993</VatRegNo>
+    <ClientRef>TBL</ClientRef>
+  </Client>
+  <Client ID="1" Name="CityCell" ClientType="ANS">
+    <!-- Name in the DropDown or UI. Also the in Rpeorts IGW / ANS column-->
+    <DisplayName>City Cell</DisplayName>
+    <!-- Name used in the reports -->
+    <FullName>Pacific Bangladesh Telecom Ltd.</FullName>
+    <Address>Pacific Centre,14, Mohakhali C/A , Dhaka 1212. </Address>
+    <WhomToAttention>Md. Mahfuzur Rahman, Chief Corporate Affairs Officer</WhomToAttention>
+    <VatRegNo>18131000773</VatRegNo>
+    <ClientRef>PBTL</ClientRef>
+  </Client>
+  <Client ID="7" Name="NovoTel" ClientType="IOS">
+    <DisplayName>NovoTel</DisplayName>
+    <FullName>Novo Tel Limited </FullName>
+    <Address>H # Ga 30/G, PragatiSarani Shahjadpur, Gulshan 02 Dhaka 1212.</Address>
+    <WhomToAttention>Md. Khalakuzzaman, Sr. Manager, Finance &amp; Accounts.</WhomToAttention>
+    <RefNo>NTL</RefNo>
+    <VatRegNo>18121022810</VatRegNo>
+  </Client>
+  <Client ID="8" Name="BanglaTrac" ClientType="IOS">
+    <DisplayName>BanglaTrac</DisplayName>
+    <FullName>Bangla Trac Communications Ltd. </FullName>
+    <Address>Plot # 68(Old 45),	Road # 11, Block # H,  Banani, Dhaka 1213</Address>
+    <WhomToAttention>Chief Operating Officer</WhomToAttention>
+    <RefNo>BT</RefNo>
+    <VatRegNo>18121022810</VatRegNo>
+  </Client>
+  <Client ID="9" Name="Mir" ClientType="IOS">
+    <DisplayName>Mir</DisplayName>
+    <FullName>Mir Telecom Limited </FullName>
+    <Address>Red Crescent Borak Tower 2 (Level – 7) 71 72 Old Elephant Road, Eskaton Garden, Dhaka 1000.</Address>
+    <WhomToAttention>Mr. S. M. Asaduzzaman, Manager (Finance &amp; Accounts)</WhomToAttention>
+    <RefNo>MTL</RefNo>
+    <VatRegNo>18121022810</VatRegNo>
+  </Client>
+  <Client ID="10" Name="Unique" ClientType="IOS">
+    <DisplayName>Unique</DisplayName>
+    <FullName>Unique Infoway Limited</FullName>
+    <Address>Bulu Ocean Tower (14 15 floor), 40 Kemal Ataturk Avenue, Banani, Dhaka 1213.</Address>
+    <WhomToAttention>Mr.Suza Uddoula, Senior Manager (Finance &amp; Accounts)</WhomToAttention>
+    <RefNo>UIL</RefNo>
+    <VatRegNo>18121022810</VatRegNo>
+  </Client>
+  <Client ID="11" Name="Digicon" ClientType="IOS">
+    <DisplayName>Digicon</DisplayName>
+    <FullName>Digicon Telecommunication Limited</FullName>
+    <Address>AwalCenter 18th Floor 34 Kemal Ataturk Avenue Banani C/A, Dhaka.</Address>
+    <WhomToAttention>Biswajit Saha, Head of Corporate Affairs.</WhomToAttention>
+    <RefNo>Digicon</RefNo>
+    <VatRegNo>18121022810</VatRegNo>
+  </Client>
+  <Client ID="12" Name="GlobalVoice" ClientType="IOS">
+    <DisplayName>GlobalVoice</DisplayName>
+    <FullName>Global Voice Telecom LTD.</FullName>
+    <Address>Level  8, Sam Tower, House 4, Road 22 Gulshan 1, Dhaka.</Address>
+    <WhomToAttention>Chief Operating Officer</WhomToAttention>
+    <RefNo>GVTL</RefNo>
+    <VatRegNo>18121022810</VatRegNo>
+  </Client>
+  <Client ID="13" Name="Roots" ClientType="IOS">
+    <DisplayName>Roots</DisplayName>
+    <FullName>Roots Communication Ltd.</FullName>
+    <Address>Diganta Tower, Level 7 12/1 R.K. Mission Road Dhaka 1203.</Address>
+    <WhomToAttention>Chandan Sharma</WhomToAttention>
+    <RefNo>RCL</RefNo>
+    <VatRegNo>18121022810</VatRegNo>
+  </Client>
+</ArrayOfClient>
